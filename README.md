@@ -45,8 +45,8 @@ current_learning:
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanpandey7647&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpandey7647&layout=compact&hide_title=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paman7647&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paman7647&layout=compact&hide_title=true&hide_border=true&theme=radical" />
 </p>
 
 ---
@@ -55,8 +55,8 @@ current_learning:
 
 <!-- GitHub Contributions Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpandey7647&theme=radical" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanpandey7647&theme=radical" alt="GitHub Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paman7647&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paman7647&theme=radical" alt="GitHub Repos Per Language" />
 </p>
 
 ---
