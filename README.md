@@ -159,8 +159,8 @@ A modular Telegram userbot ecosystem built with plugin-based architecture.
 ---
 
 <!-- PROFILE-ENGINE-START -->
-Realtime profile engine status: active  
-Last sync: initializing...
+Realtime profile engine status: active
+Last sync: 
 <!-- PROFILE-ENGINE-END -->
 
 
