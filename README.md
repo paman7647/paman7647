@@ -122,16 +122,6 @@ A modular Telegram userbot ecosystem built with plugin-based architecture.
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paman7647&show_icons=true&theme=tokyonight&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paman7647&layout=compact&theme=tokyonight">
-</p>
-
----
-
 ## 📬 Contact
 
 <p align="center">
@@ -152,8 +142,6 @@ A modular Telegram userbot ecosystem built with plugin-based architecture.
 
 ---
 
-![Aman's Git Stats](https://github-readme-stats.vercel.app/api?username=paman7647&include_all_commits=true&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paman7647&layout=compact&theme=radical)](https://github.com/paman7647)
 <p align="center">
   Built with ❤️ by Aman Kumar Pandey
 </p>
