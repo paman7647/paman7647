@@ -9,7 +9,7 @@
 <h1 align="center">Aman Kumar Pandey</h1>
 
 <p align="center">
-  Automation Engineer • Systems Integrator • Open Source Developer
+  • Open Source Developer
 </p>
 
 ---
@@ -152,25 +152,8 @@ A modular Telegram userbot ecosystem built with plugin-based architecture.
 
 ---
 
+![Aman's Git Stats](https://github-readme-stats.vercel.app/api?username=paman7647&include_all_commits=true&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paman7647&layout=compact&theme=radical)](https://github.com/paman7647)
 <p align="center">
   Built with ❤️ by Aman Kumar Pandey
 </p>
-
----
-
-<!-- PROFILE-ENGINE-START -->
-Realtime profile engine status: active
-Last sync: 
-<!-- PROFILE-ENGINE-END -->
-
-
----
-
-## Activity
-
-![Metrics](./github-metrics.svg)
-
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" />
-</p>
-
