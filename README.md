@@ -10,13 +10,17 @@
 
 <p align="center">
   • Open Source Developer
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=paman7647&style=for-the-badge&color=0891b2&labelColor=1c1917)
 </p>
 
 ---
 
+
 ## 🧠 About
 
 I build automation-driven software with a focus on performance, reliability, and clean architecture.
+
 
 My work centers around:
 
