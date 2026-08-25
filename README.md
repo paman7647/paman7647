@@ -126,25 +126,7 @@ A modular Telegram userbot ecosystem built with plugin-based architecture.
 </p>
 
 ---
-## 📬 Contact
 
-<p align="center">
-  <a href="https://www.amanpandey.tech">
-    <img src="https://img.shields.io/badge/Website-141E30?style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/paman7647">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://t.me/paman7647">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/paman7647">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</p>
-
-
----
 
 <p align="center">
   Built with ❤️ by Aman Kumar Pandey
